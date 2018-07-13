@@ -1,0 +1,230 @@
+#search {
+    
+    margin-left: 13%;
+    margin-top: 1px;
+
+}
+#p1{
+    color:rgb(95, 92, 92);
+    font-family:Georgia;
+}
+#img1{
+    
+    margin-left: 1px;
+    margin-top: 200px;
+    height: 250px;
+    width: 300px;
+    border:5px solid #a7a8ac;
+}
+
+#top_row{
+    margin-top: 20px;
+}
+/*#p1{
+    margin-left:10%;
+    margin-top:15%;
+}*/
+#link{
+    font-family:Comic Sans MS;
+    color: #6e6767;
+    }
+ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 15px;
+    color: rgb(41, 241, 84);
+    padding: 0%;
+    font-family: Georgia;
+}
+.button1 {
+    background-color: rgba(34, 146, 6, 0.822); 
+    border: none;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 16%;
+    cursor: pointer;
+    border-radius: 8px;
+}
+.img-fluid .button1:hover {
+    background-color: rgb(48, 201, 228);
+}
+/* Change the color of links on hover */
+.navbar a:hover {
+    
+    color: rgb(40, 226, 111);
+}
+/* Add an active class to highlight the current page */
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+/* Hide the link that should open and close the topnav on small screens */
+.navbar .icon {
+    display:none;
+    
+
+}
+
+/* Style the links inside the navigation bar */
+.navbar a {
+    float: left;
+    display: block;
+    color: #6e6767;
+    text-align: center;
+    padding: 1px;
+    text-decoration: none;
+    font-size: 15px;
+    
+
+}
+
+/* Style the button and put it on sthe image */
+.img-fluid .button1 {
+    position: absolute;
+    
+    left: 40%;
+    top: 100%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(47, 233, 22);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  /* to put btn2 on img */
+  .img-fluid .button2{
+      
+      position: absolute;
+    
+    left: 55%;
+    top: 87%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: rgb(64, 240, 117);
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+ 
+  }
+   .button2:hover {
+    background-color: rgb(43, 160, 180);
+}
+  /* text on img*/
+  .centered {
+    position: relative;
+    text-align: left;
+    color: rgb(22, 20, 20);
+  }
+
+/* Centered text */
+.centered {
+    position: absolute;
+    top:70%;
+    left: 62%;
+    transform: translate(-50%, -50%);
+    
+}
+/* text2 on image */
+
+  
+  .bg-text {
+    position:absolute;
+    top:20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-family: Georgia;
+    text-align: left;
+
+  }
+/* button pop up*/
+.button3 {
+    background-color:white; 
+    border: 4px solid rgb(43, 245, 16);
+    color:rgb(155, 148, 148);
+    padding: 14px 38px;;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-left: 5%;
+    cursor: pointer;
+    font-family: Georgia;
+    border-radius: 10px;
+}/* center text*/
+.middle{
+    top:320%;
+    
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    color:black;
+    font-size: 20px;
+    font-family: Georgia;
+}
+.text-block {
+    position: absolute;
+    top: 330%;
+    left: 25%;
+    width:28%;
+    background-color:white;
+    color: rgb(7, 7, 7);
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.center {
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 50%;
+}
+.text-block1 {
+    position: absolute;
+    
+    top: 330%;
+    left: 55%;
+    width:30%;
+    background-color:white;
+    color: rgb(7, 7, 7);
+    padding-left: 50px;
+    padding-right: 40px;
+}
+.button4
+{
+    background-color: rgba(51, 207, 11, 0.822); 
+    border: none;
+    color:white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 16%;
+    cursor: pointer;
+    
+    border-radius: 2px;
+}
+.text1{
+    top:470%;
+    
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position:absolute;
+    color:white;
+    font-size: 250px;
+    font-family: Georgia;
+
+}
+
+  
+
